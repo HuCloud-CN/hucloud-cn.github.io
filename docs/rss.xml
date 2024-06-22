@@ -1,2 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>飓云永不停歇站</title><link>https://hucloud-cn.github.io</link><description>本站点根据 GitHub 构建</description><copyright>飓云永不停歇站</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://www.hucl.link/Logo/logo.png</url><title>avatar</title><link>https://hucloud-cn.github.io</link></image><lastBuildDate>Sat, 22 Jun 2024 10:07:58 +0000</lastBuildDate><managingEditor>飓云永不停歇站</managingEditor><ttl>60</ttl><webMaster>飓云永不停歇站</webMaster><item><title>HelloWorld</title><link>https://hucloud-cn.github.io/post/HelloWorld.html</link><description># HelloWorld。</description><guid isPermaLink="true">https://hucloud-cn.github.io/post/HelloWorld.html</guid><pubDate>Sat, 22 Jun 2024 09:57:12 +0000</pubDate></item></channel></rss>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>飓云永不停歇站</title><link>https://hucloud-cn.github.io</link><description>本站点根据 GitHub 构建</description><copyright>飓云永不停歇站</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://www.hucl.link/Logo/logo.png</url><title>avatar</title><link>https://hucloud-cn.github.io</link></image><lastBuildDate>Sat, 22 Jun 2024 10:19:29 +0000</lastBuildDate><managingEditor>飓云永不停歇站</managingEditor><ttl>60</ttl><webMaster>飓云永不停歇站</webMaster><item><title>关于这方面的问题</title><link>https://hucloud-cn.github.io/post/guan-yu-zhe-fang-mian-de-wen-ti.html</link><description>## 关于这方面的问题
+1. 由于这个博客搭建在GitHub上面，所以不用担心停止服务的问题
+2. 该开源项目仅用于构建博客没有其他任何用处
+
+## 个人网站
+1. [官网](http://www.hucl.link)
+2. [云盘](http://juyp.hucl.link)
+3. [简单云](http://ym.hucl.link)
+4. [JuOS开发开放平台](http://www.juos.hucl.link)
+5. [飓云网](http://blog.hucl.link)。</description><guid isPermaLink="true">https://hucloud-cn.github.io/post/guan-yu-zhe-fang-mian-de-wen-ti.html</guid><pubDate>Sat, 22 Jun 2024 10:19:06 +0000</pubDate></item><item><title>HelloWorld</title><link>https://hucloud-cn.github.io/post/HelloWorld.html</link><description># HelloWorld。</description><guid isPermaLink="true">https://hucloud-cn.github.io/post/HelloWorld.html</guid><pubDate>Sat, 22 Jun 2024 09:57:12 +0000</pubDate></item></channel></rss>
